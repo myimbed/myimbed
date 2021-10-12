@@ -1227,7 +1227,7 @@ li.social-links a {
     top: -7px;
     left: -7px;
     padding: 7px;
-    box-shadow: 0 0 0 2px #fcbf02;
+    box-shadow: 0 0 0 2px #027CAA;
     -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
     -webkit-transform: scale(.8);
     -moz-transition: -moz-transform 0.2s, opacity 0.2s;
@@ -1581,7 +1581,7 @@ hr.invis1 {
 
 .features-right li i:hover,
 .features-left li i:hover {
-	background: #fcbf02;
+	background: #027CAA;
 }
 
 #features i img {
@@ -2317,7 +2317,7 @@ select.mobile-device {
 .stat-wrap h3 {
     font-size: 22px;
     font-weight: 600;
-    color: #fcbf02;
+    color: #027CAA;
     margin: 0 !important;
     padding: 0 !important;
     line-height: 1 !important:
@@ -2941,7 +2941,7 @@ select.mobile-device {
 	color: #027CAA;
 }
 .page-title-link li::after {
-    background: #fcbf02;
+    background: #027CAA;
     bottom: 8px;
     content: "";
     height: 2px;
@@ -2997,7 +2997,7 @@ select.mobile-device {
 
 
 .portfolio-filter ul li .btn-dark.active{
-	background: #fcbf02;
+	background: #027CAA;
 	color: #ffffff;
 }
 
