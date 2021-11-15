@@ -503,6 +503,7 @@ li.social-links a {
     top: 13px;
 }
 
+
 /*------------------------------------------------------------------
     Banner Slider
 -------------------------------------------------------------------*/
@@ -570,6 +571,10 @@ li.social-links a {
 
 .slide-text h1 span{
 	color: #027CAA;
+}
+
+.slide-text h1 spanM{
+	color: #ED1C32;
 }
 
 .slide-text h2 {
@@ -1386,7 +1391,7 @@ hr.invis1 {
 }
 
 .section.parallax hr.hr1 {
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(0, 0, 0, 0.8);
 }
 
 .sep1 {
@@ -3175,6 +3180,8 @@ select.mobile-device {
     vertical-align: top;
     margin-top: -7px;
 }
+
+
 .pricingTable .month{
     display: block;
     font-size: 16px;
